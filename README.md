@@ -1,7 +1,6 @@
 # IBM-Cognos-Project
 
 **Current Technology Usage Dashboard**
-
 **1. Top 10 Languages Used (Bar Chart)**  
 This chart highlights the top 10 most commonly used programming languages. The length of the bars indicates their popularity, with value labels showing the exact number of users.  
 **2. Top 10 Databases Used (Column Chart)**  
@@ -25,7 +24,7 @@ This hierarchy bubble chart shows the top 10 web frameworks developers are inter
 **1. Respondents by Gender (Pie Chart)**  
 A pie chart illustrating the gender distribution of respondents, with segments representing males and females, and percentage values displayed for each.  
 **2. Respondent Count by Country (Map Chart)**   
-This map chart highlights the distribution of respondents across different countries. Regions are colored based on the number of respondents from each country.
+This map chart highlights the distribution of respondents across different countries. Regions are colored based on the number of respondents from each country.  
 **3. Respondent Count by Age (Line Chart)**  
 A line chart displaying the age distribution of respondents. Each data point is marked, and value labels show the exact count for each age group.  
 **4. Respondent Count by Gender and Education Level (Stacked Bar Chart)**  
