@@ -3,7 +3,7 @@
 **Current Technology Usage Dashboard**
 
 **1. Top 10 Languages Used (Bar Chart)**
-This chart highlights the top 10 most commonly used programming languages. The length of the bars indicates their popularity, with value labels showing the exact number of users.
+This chart highlights the top 10 most commonly used programming languages. The length of the bars indicates their popularity, with value labels showing the exact number of users. \n
 **2. Top 10 Databases Used (Column Chart)**
 A column chart representing the top 10 databases, where the height of each column reflects the number of users. Value labels provide clarity on the specific counts.
 **3. Platforms Used (Word Cloud)**
