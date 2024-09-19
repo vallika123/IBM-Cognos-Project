@@ -30,14 +30,10 @@ The report will be structured to effectively communicate the analysis process an
 The final deliverable will showcase technical competence in using Jupyter Notebooks for the analysis, SQL for querying relational databases, and BI tools for data reporting.  
 
 **Technologies and Tools Demonstrated:**  
-Jupyter Notebooks: For performing iterative analysis and documenting the workflow.
-SQL and Relational Databases (RDBMS): For querying and managing datasets in relational databases, extracting valuable insights.
-Python Libraries: Including Pandas for data wrangling, Numpy for numerical analysis, Scikit-learn for machine learning, and Scipy for statistical analysis.
-Matplotlib & Seaborn: For creating sophisticated visualizations that help stakeholders understand complex data.
-Cognos Analytics: For developing interactive dashboards that support data-driven decision-making within the organization.
-Project Deliverables:
+Jupyter Notebooks: For performing iterative analysis and documenting the workflow.  
+SQL and Relational Databases (RDBMS): For querying and managing datasets in relational databases, extracting valuable insights.  
+Python Libraries: Including Pandas for data wrangling, Numpy for numerical analysis, Scikit-learn for machine learning, and Scipy for statistical analysis.  
+Matplotlib & Seaborn: For creating sophisticated visualizations that help stakeholders understand complex data.  
+Cognos Analytics: For developing interactive dashboards that support data-driven decision-making within the organization.  
 
-Executive Summary: A high-level overview of the project’s objectives, key findings, and recommendations.
-Data Analysis Report: A detailed report covering the entire data analysis process, from data collection to final insights and conclusions.
-Interactive Dashboard: A functional dashboard designed to allow stakeholders to explore and visualize data interactively.
-Final Presentation: A professional presentation of the project findings tailored to different stakeholders, focusing on key insights and actionable outcomes.
+
