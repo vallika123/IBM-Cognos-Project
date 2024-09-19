@@ -1,5 +1,5 @@
 # IBM-Cognos-Project
-Key Tasks and Responsibilities:
+Key Tasks and Responsibilities:  
 **Data Collection:**  
 Gathering data from multiple real-world sources, ensuring data relevance and completeness for the analysis.
 Working with structured and unstructured datasets, applying best practices for efficient data extraction.
